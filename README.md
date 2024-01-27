@@ -1,4 +1,4 @@
-# Hello, I'm Carlos Puente! 👋
+# Hi, I'm Carlos Puente! 👋
 
 ![Banner](https://github.com/CarlosPuent/Puente_ProyectosJava/raw/master/Banner.png)
 
