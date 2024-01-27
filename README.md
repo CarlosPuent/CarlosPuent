@@ -1,5 +1,7 @@
 # Hello, I'm Carlos Puente! 👋
 
+![Banner](C:\Users\accpm\Downloads\Banner.png)
+
 ## About Me
 I am a passionate Java programmer with expertise in technologies such as SQL and Linux. I love developing systems using object-oriented programming and creating innovative solutions.
 
@@ -22,8 +24,9 @@ Here are some of the technologies I'm adept at:
 ## Contact
 If you have any questions, suggestions, or just want to collaborate on a project, feel free to reach out:
 
--  Email: accpmurillo233@gmail.com 📧
--  LinkedIn: www.linkedin.com/in/carlospuente23 💼
--  
+- Email: accpmurillo233@gmail.com 📧
+- LinkedIn: [Carlos Puente](www.linkedin.com/in/carlospuente23) 💼
+
 I hope you enjoyed my GitHub profile! 😄 Feel free to explore my projects and leave your comments! 🚀✨
+
 
