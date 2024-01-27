@@ -1,6 +1,6 @@
 # Hello, I'm Carlos Puente! 👋
 
-![Banner](C:\Users\accpm\Downloads\Banner.png)
+![Banner](https://github.com/CarlosPuent/Puente_ProyectosJava/raw/master/Banner.png)
 
 ## About Me
 I am a passionate Java programmer with expertise in technologies such as SQL and Linux. I love developing systems using object-oriented programming and creating innovative solutions.
@@ -28,5 +28,4 @@ If you have any questions, suggestions, or just want to collaborate on a project
 - LinkedIn: [Carlos Puente](www.linkedin.com/in/carlospuente23) 💼
 
 I hope you enjoyed my GitHub profile! 😄 Feel free to explore my projects and leave your comments! 🚀✨
-
 
