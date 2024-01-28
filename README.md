@@ -25,7 +25,7 @@ Here are some of the technologies I'm adept at:
 If you have any questions, suggestions, or just want to collaborate on a project, feel free to reach out:
 
 - Email: accpmurillo233@gmail.com 📧
-- LinkedIn: [Carlos Puente](www.linkedin.com/in/carlospuente23) 💼
+- LinkedIn: [Carlos Puente](https://www.linkedin.com/in/carlospuente23/) 💼
 
 I hope you enjoyed my GitHub profile! 😄 Feel free to explore my projects and leave your comments! 🚀✨
 
