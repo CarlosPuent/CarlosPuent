@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Puente! 👋
 
-![Banner](https://github.com/CarlosPuent/Puente_ProyectosJava/raw/master/Banner.png)
+![Banner]([https://github.com/CarlosPuent/Puente_ProyectosJava/raw/master/Banner.png](https://github.com/CarlosPuent/Imagenes/blob/main/Banner%20(1).png))
 
 ## About Me
 I am a passionate Java programmer with expertise in technologies such as SQL and Linux. I love developing systems using object-oriented programming and creating innovative solutions.
