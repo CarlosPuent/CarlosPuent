@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Puente! 👋
 
-# 💫 About Me:
+#  About Me:
 👋 Hello! I'm Carlos Puente, a passionate Java developer on a journey of continuous learning and growth. My enthusiasm for crafting efficient code and solving complex problems drives me to explore innovative solutions and techniques.<br><br>Throughout my career, I've honed my skills in designing and implementing robust systems, applying principles like SOLID and design patterns such as MVC, Singleton, and Factory. I'm currently expanding my knowledge in web development with Spring and Spring Boot, embracing the MVC architecture and the power of dependency injection.<br><br>I'm deeply committed to continuous learning and professional development, always seeking new opportunities to expand my knowledge and skills in the ever-evolving field of technology. I'm excited about the possibilities that the technological future holds and eager to continue learning and growing in this dynamic field.💻☕️
 
 
