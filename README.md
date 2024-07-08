@@ -25,9 +25,13 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosPuent&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.%20%E2%80%93%20Cory%20House)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Illustrated quote" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
+> **Code is like humor. When you have to explain it, it’s bad.** – Cory House
 ---
 [![](https://visitcount.itsvg.in/api?id=CarlosPuent&icon=0&color=0)](https://visitcount.itsvg.in)
 
