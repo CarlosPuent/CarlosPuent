@@ -12,11 +12,11 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 
 | ![Web Development](https://img.shields.io/badge/Web_Development-239120?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 |:---:|:---:|:---:|
-| (Intermediate) | (Basic) | (Basic) |
+| (Basic) | (Intermediate) | (Basic) |
 
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 |:---:|:---:|:---:|
-| (Intermediate) | (Basic) | (Basic) |
+| (Intermediate) | (Intermediate) | (Basic) |
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
