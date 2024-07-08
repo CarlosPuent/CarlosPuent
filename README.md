@@ -21,8 +21,8 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=restful-api)
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosPuent&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosPuent&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&layout=compact&hide_border=true)
 
 
 ### ✍️ Random Dev Quote
