@@ -1,4 +1,4 @@
-**Carlos Puente** :wave:
+**Carlos Puente** 👋
 
 **About Me**
 
@@ -6,39 +6,36 @@ Hello! I'm Carlos Puente, a passionate Java developer with a strong foundation i
 
 **Technical Expertise**
 
-* **Java** [☕](https://www.java.com/en/) (熟练)
-* **Spring** [](https://spring.io/) (中级)
-* **Spring Boot** [](https://spring.io/products/spring-boot) (中级)
-* **Web Development** [](https://developer.mozilla.org/en-US/docs/Web/HTML/Introduction) (中级)
-* **Docker** [](https://www.docker.com/) (基础)
-* **Kubernetes** [⎈](https://kubernetes.io/) (基础)
-* **Databases:**
-    * MySQL [](https://www.mysql.com/) (中级)
-    * Oracle Database [✨](https://www.oracle.com/database/technologies/oracledatabase/) (基础)
-    * Microsoft SQL Server [](https://www.microsoft.com/en-us/server-products/sql-server/) (基礎)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java** (Advanced)
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) **Spring** (Intermediate)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) **Spring Boot** (Intermediate)
+- ![Web Development](https://img.shields.io/badge/Web_Development-239120?style=for-the-badge&logo=html5&logoColor=white) **Web Development** (Intermediate)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker** (Basic)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) **Kubernetes** (Basic)
+- **Databases:**
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL** (Intermediate)
+  - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) **Oracle Database** (Basic)
+  - ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **Microsoft SQL Server** (Basic)
 
-**Socials** (Optional - Add links to your social media profiles)
+**Socials**
 
-* LinkedIn: [Link to your LinkedIn profile]
-* Twitter: [Link to your Twitter profile]
-* Stack Overflow: [Link to your Stack Overflow profile]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
 
 **GitHub Stats**
 
-[![GitHub stars](https://img.shields.io/github/stars/username/repo.svg?style=social)](https://github.com/username/repo)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo.svg?style=social)](https://github.com/username/repo)
-[![GitHub watchers](https://img.shields.io/github/watchers/username/repo.svg?style=social)](https://github.com/username/repo)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub watchers](https://img.shields.io/github/watchers/yourusername?style=social)](https://github.com/yourusername)
 
 **Note:**
 
-* Replace `username/repo` with your actual GitHub username and repository name.
-* Replace bracketed text (e.g., 熟练) with your proficiency level in each technology (beginner, intermediate, advanced) in your preferred language.
+- Replace `yourusername` with your actual GitHub username.
+- Replace the links in the Socials section with your actual profile URLs.
 
-**I hope you find my GitHub profile informative and engaging!** :smiley:
-
-Feel free to explore my projects and leave your comments!  :rocket: ✨
-
+I hope you find my GitHub profile informative and engaging! 😊 Feel free to explore my projects and leave your comments! 🚀✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-I hope you find my GitHub profile informative and engaging! 😊 Feel free to explore my projects and leave your comments! 🚀✨
+
 
