@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Carlos Puente 👋
 
 Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing and implementing robust systems. I'm dedicated to crafting efficient code, solving complex problems, and continuously learning and growing within the ever-evolving tech landscape. Currently, I'm expanding my expertise in web development with Spring and Spring Boot, leveraging the power of dependency injection and the MVC architecture. I also have extensive experience in various architectural styles, including microservices, hexagonal architecture, and layered architecture, showcasing my proficiency as a backend developer in Java and Spring Boot.
@@ -27,9 +27,6 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CarlosPuent&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CarlosPuent&icon=0&color=0)](https://visitcount.itsvg.in)
