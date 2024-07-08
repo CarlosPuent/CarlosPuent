@@ -2,7 +2,7 @@
 
 **About Me**
 
-Hello! I'm Carlos Puente, a passionate Java developer with a strong foundation in designing and implementing robust systems. I'm dedicated to crafting efficient code, solving complex problems, and continuously learning and growing within the ever-evolving tech landscape. Currently, I'm expanding my expertise in web development with Spring and Spring Boot, leveraging the power of dependency injection and the MVC architecture.
+Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing and implementing robust systems. I'm dedicated to crafting efficient code, solving complex problems, and continuously learning and growing within the ever-evolving tech landscape. Currently, I'm expanding my expertise in web development with Spring and Spring Boot, leveraging the power of dependency injection and the MVC architecture. I also have extensive experience in various architectural styles, including microservices, hexagonal architecture, and layered architecture, showcasing my proficiency as a backend developer in Java and Spring Boot.
 
 **Technical Expertise**
 
