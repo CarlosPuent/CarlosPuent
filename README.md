@@ -20,10 +20,10 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=restful-api)
 
-# GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosPuent&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&layout=compact&hide_border=true)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CarlosPuent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosPuent&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&hide_border=false&layout=compact)
 
 ### ✍️ Keep an eye on this !!!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.%20%E2%80%93%20Cory%20House)
