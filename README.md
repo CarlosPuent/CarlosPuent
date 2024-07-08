@@ -19,18 +19,6 @@ Hello! I'm Carlos Puente, a passionate Java developer with a strong foundation i
 | - Oracle Database    | Basic        | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 | - Microsoft SQL Server | Intermediate | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
-
-**GitHub Stats**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername?style=social)](https://github.com/yourusername)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername?style=social)](https://github.com/yourusername)
-
-**Note:**
-
-- Replace `yourusername` with your actual GitHub username.
-- Replace the links in the Socials section with your actual profile URLs.
-
 I hope you find my GitHub profile informative and engaging! 😊 Feel free to explore my projects and leave your comments! 🚀✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
