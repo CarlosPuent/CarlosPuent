@@ -1,25 +1,44 @@
-**Carlos Puente** 👋
-
-**About Me**
+# 💫 About Me:
+Carlos Puente 👋
 
 Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing and implementing robust systems. I'm dedicated to crafting efficient code, solving complex problems, and continuously learning and growing within the ever-evolving tech landscape. Currently, I'm expanding my expertise in web development with Spring and Spring Boot, leveraging the power of dependency injection and the MVC architecture. I also have extensive experience in various architectural styles, including microservices, hexagonal architecture, and layered architecture, showcasing my proficiency as a backend developer in Java and Spring Boot.
 
-**Technical Expertise**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/carlospuente23)
 
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) | ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=restful-api) |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| (Advanced) | (Intermediate) | (Intermediate) | (Intermediate) | (Intermediate) | (Intermediate) |
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/spring_security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=restful-api)
 
-| ![Web Development](https://img.shields.io/badge/Web_Development-239120?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-|:---:|:---:|:---:|
-| (Basic) | (Intermediate) | (Basic) |
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CarlosPuent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosPuent&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&hide_border=false&layout=compact)
 
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-|:---:|:---:|:---:|
-| (Intermediate) | (Intermediate) | (Basic) |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CarlosPuent&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CarlosPuent&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CarlosPuent&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
