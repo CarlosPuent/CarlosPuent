@@ -25,9 +25,6 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosPuent&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CarlosPuent&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
