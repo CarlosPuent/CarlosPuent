@@ -25,7 +25,7 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosPuent&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPuent&theme=dark&hide_border=false&layout=compact)
 
-> ⚠️ **Why do programmers prefer coffee? Because it's the only thing that can fix a bug that's been open for hours.** – Unknown
+> ⚠️ **Why do programmers prefer coffee? Because it's the only thing that can fix a bug that's been open for hours. ☕️** – Unknown
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CarlosPuent&icon=0&color=0)](https://visitcount.itsvg.in)
