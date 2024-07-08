@@ -6,22 +6,26 @@ Hello! I'm Carlos Puente, a passionate Java developer with a strong foundation i
 
 **Technical Expertise**
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) **Java** (Advanced)
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) **Spring** (Intermediate)
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) **Spring Boot** (Intermediate)
-- ![Web Development](https://img.shields.io/badge/Web_Development-239120?style=for-the-badge&logo=html5&logoColor=white) **Web Development** (Intermediate)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker** (Basic)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) **Kubernetes** (Basic)
-- **Databases:**
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL** (Intermediate)
-  - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) **Oracle Database** (Basic)
-  - ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) **Microsoft SQL Server** (Basic)
+| Technology           | Proficiency  | Badge |
+|----------------------|--------------|-------|
+| **Java**             | Advanced     | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| **Spring**           | Intermediate | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
+| **Spring Boot**      | Intermediate | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) |
+| **Web Development**  | Intermediate | ![Web Development](https://img.shields.io/badge/Web_Development-239120?style=for-the-badge&logo=html5&logoColor=white) |
+| **Docker**           | Basic        | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Kubernetes**       | Basic        | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| **Databases**        |              |       |
+| - MySQL              | Intermediate | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| - Oracle Database    | Basic        | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+| - Microsoft SQL Server | Basic     | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
 **Socials**
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
+| Platform            | Profile Link |
+|---------------------|--------------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) | [LinkedIn](https://www.linkedin.com/in/yourprofile) |
+| [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) | [Twitter](https://twitter.com/yourprofile) |
+| [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile) | [Stack Overflow](https://stackoverflow.com/users/yourprofile) |
 
 **GitHub Stats**
 
@@ -37,5 +41,6 @@ Hello! I'm Carlos Puente, a passionate Java developer with a strong foundation i
 I hope you find my GitHub profile informative and engaging! 😊 Feel free to explore my projects and leave your comments! 🚀✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
