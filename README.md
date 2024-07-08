@@ -17,7 +17,7 @@ Hello! I'm Carlos Puente, a Java developer with a strong foundation in designing
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 |:---:|:---:|:---:|
 | **MySQL** (Intermediate) | **Oracle Database** (Basic) | **Microsoft SQL Server** (Basic) |
-I hope you find my GitHub profile informative and engaging! 😊 Feel free to explore my projects and leave your comments! 🚀✨
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
